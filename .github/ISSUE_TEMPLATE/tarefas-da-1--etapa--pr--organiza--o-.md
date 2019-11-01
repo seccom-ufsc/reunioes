@@ -1,8 +1,8 @@
 ---
 name: Tarefas da 1ª Etapa (Pré-Organização)
 about: 'Referente à etapa de pré-organização '
-title: "[Progresso] 1. Pré-Organização"
-labels: ''
+title: "[20XX] Etapa 1: Pré-Organização"
+labels: progresso
 assignees: ''
 
 ---
@@ -20,4 +20,5 @@ assignees: ''
     - (_Fronte 2: @ do responsável_);
     - ...
   - [ ] Definir responsáveis pelas frontes;
-- [ ] Definir padrões de comunicação.
+- [ ] Definir padrões de comunicação;
+- [ ] Criar uma issue para cada _checkbox_ acima (conforme conveniente) usando a label `tarefa`.
